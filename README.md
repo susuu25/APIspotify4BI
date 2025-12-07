@@ -24,3 +24,5 @@ https://api.spotify.com/v1/artists + um código de artista retorna dados desse a
 - [Mapa de navegação](https://github.com/susuu25/APIspotify4BI/wiki/Mapa-de-navega%C3%A7%C3%A3o)
 - [Descrição do Widgets](https://github.com/susuu25/APIspotify4BI/wiki/Widgets-utilizados)
 </ul>
+
+Link do projeto no drive devido ao tamnho do arquivo causar problemas no envio ao github: https://drive.google.com/drive/folders/169x2BJQEFo-RMfAdjXVGTSaM663JJNX7?usp=sharing
